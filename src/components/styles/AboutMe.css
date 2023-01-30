@@ -1,0 +1,16 @@
+.image1,
+.image2,
+.image3,
+.imageContainerAboutMe {
+  display: inline-block;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+img {
+  max-width: 400px;
+  opacity: 0.8;
+  margin-left: -100px;
+}
