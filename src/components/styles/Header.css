@@ -20,7 +20,7 @@ h1,
 ul,
 li,
 nav {
-  background-color: #ddfbd2;
+  background-image: linear-gradient(#ddfbd2, #bcedf6);
 }
 h1 {
   font-family: Barlow;

@@ -1,0 +1,9 @@
+#footerLi {
+  list-style: none;
+  text-decoration: none;
+}
+
+#footerUl {
+  margin-left: -30px;
+  background-image: linear-gradient(#bcedf6, #ddfbd2, #bcedf6);
+}

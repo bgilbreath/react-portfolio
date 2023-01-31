@@ -1,0 +1,14 @@
+#contactForm {
+  height: 100px;
+  width: 300px;
+  background-color: #ddfbd2;
+}
+#formSubmit {
+  background-color: #ddfbd2;
+}
+.contactDiv {
+  margin-left: 20px;
+}
+.contactDiv h2 {
+  margin-left: -10px;
+}

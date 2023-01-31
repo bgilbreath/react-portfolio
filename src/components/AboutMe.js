@@ -7,7 +7,7 @@ export default function AboutMe() {
       <div class="imageContainerAboutMe">
         <img src={AboutMeImage} alt="AboutMeImage"></img>
       </div>
-      <section>
+      <section class="aboutMeSection">
         Recent full-stack bootcamp graduate through Butler and BFA graduate from
         Herron School of Art, independently driven, creative individual with
         excellent problem solving skills, a drive to constantly learn and

@@ -1,0 +1,22 @@
+.image1,
+.image2,
+.image3 {
+  display: inline-block;
+  position: relative;
+  width: 180px;
+  height: 180px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.imageContainer {
+  margin-left: 20px;
+  display: block;
+  margin-inline-end: 20%;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  margin-left: 10px;
+}

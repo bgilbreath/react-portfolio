@@ -1,10 +1,9 @@
+import "./styles/Footer.css";
 export default function Footer() {
   return (
     <div>
-      <h1>Footer component</h1>
-      <ul>
-        <li>Footer item</li>
-      </ul>
+      <h4></h4>
+      <ul id="footerUl">© Bobby Gilbreath 2023</ul>
     </div>
   );
 }
