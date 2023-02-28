@@ -7,8 +7,12 @@ import "./styles/Portfolio.css";
 export default function Portfolio() {
   return (
     <div>
-      <h2>Portfolio component</h2>
-
+      <h2>Portfolio</h2>
+      <p>
+        Here is a collection of my full-stack projects, arranged from most to
+        least recent. I've included my first project to show the growth I've
+        made.
+      </p>
       <br></br>
       <div class="imageContainer">
         <div class="image4">
@@ -16,15 +20,17 @@ export default function Portfolio() {
         </div>
         <br></br>This was our final project, putting together everything we've
         learned into a MERN-stack.
+        <br></br>
         <br></br>GitHub Repository:
         <a href="https://github.com/cmurphgarv/Makers-Market" title="GitHub">
-          https://github.com/cmurphgarv/Makers-Market
+          GitHub
         </a>
         <br></br>Deployed:
         <a href="https://makers-market.herokuapp.com/" title="Deployed">
-          https://makers-market.herokuapp.com/
+          Heroku
         </a>
       </div>
+      <br></br>
       <br></br>
       <div class="imageContainer">
         <div class="image3">
@@ -32,19 +38,20 @@ export default function Portfolio() {
         </div>
         <br></br>This project was our second group project, and utilized our
         newfound knowledge in GET/POST routes.
+        <br></br>
         <br></br>GitHub Repository:
         <a
           href="https://github.com/cmurphgarv/Project-Management-App"
           title="GitHub"
         >
-          https://github.com/cmurphgarv/Project-Management-App
+          GitHub
         </a>
         <br></br>Deployed:
         <a
           href="https://project-management-2022-but.herokuapp.com"
           title="Deployed"
         >
-          https://project-management-2022-but.herokuapp.com
+          Heroku
         </a>
       </div>
       <br></br>
@@ -55,19 +62,20 @@ export default function Portfolio() {
         </div>
         <br></br>This project was our first group project, utilizing a
         third-party API.
+        <br></br>
         <br></br>GitHub Repository:
         <a
           href="https://github.com/TerryBoufis/Dine-and-Wine-App"
           title="GitHub"
         >
-          https://github.com/TerryBoufis/Dine-and-Wine-App
+          GitHub
         </a>
         <br></br>Deployed:
         <a
           href="https://terryboufis.github.io/Dine-and-Wine-App"
           title="Deployed"
         >
-          https://terryboufis.github.io/Dine-and-Wine-App
+          Heroku
         </a>
       </div>
       <br></br>
@@ -79,19 +87,20 @@ export default function Portfolio() {
         </div>
         <br></br>This project was my very first time using HTML and CSS. I'm
         including it in my portfolio to show my growth.
+        <br></br>
         <br></br>GitHub Repository:
         <a
           href="https://github.com/bgilbreath/bobby-gilbreath-portfolio"
           title="GitHub"
         >
-          https://github.com/bgilbreath/bobby-gilbreath-portfolio
+          GitHub
         </a>
         <br></br>Deployed:
         <a
           href="https://bgilbreath.github.io/bobby-gilbreath-portfolio"
           title="Deployed"
         >
-          https://bgilbreath.github.io/bobby-gilbreath-portfolio
+          Heroku
         </a>
       </div>
     </div>

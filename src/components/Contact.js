@@ -7,7 +7,6 @@ export default function Contact() {
       <br></br>
       <input type="submit" id="formSubmit"></input>
       <br></br> */}
-      <br></br>
       Github:{" "}
       <a href="https://github.com/bgilbreath" title="GitHub">
         https://github.com/bgilbreath

@@ -3,7 +3,7 @@ export default function Resume() {
     <div>
       <h2>Resume</h2>
       <section>
-        <a href="components/resume.pdf">Download resume</a>
+        <a href="../components/resume.pdf">Download resume</a>
       </section>
     </div>
   );

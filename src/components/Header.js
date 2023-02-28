@@ -6,9 +6,11 @@ const styles = {
     listStyle: "none",
     justifyContent: "flex-end",
     marginRight: "3rem",
+    textDecoration: "none",
   },
   navItem: {
     marginLeft: "3rem",
+    textDecoration: "none",
   },
 };
 
