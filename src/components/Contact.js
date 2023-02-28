@@ -3,10 +3,10 @@ export default function Contact() {
   return (
     <div class="contactDiv">
       <h2>Contact </h2>
-      <input type="text" id="contactForm"></input>
+      {/* <input type="text" id="contactForm"></input>
       <br></br>
       <input type="submit" id="formSubmit"></input>
-      <br></br>
+      <br></br> */}
       <br></br>
       Github:{" "}
       <a href="https://github.com/bgilbreath" title="GitHub">

@@ -12,6 +12,13 @@ export default function AboutMe() {
         Herron School of Art, independently driven, creative individual with
         excellent problem solving skills, a drive to constantly learn and
         improve, and a passion for community.
+        <br></br>
+        Check out my recent work in the Portfolio section. I've included my
+        first, least impressive, portfolio in order to show my growth. In just 6
+        short months I've gone from a very basic understanding of HTML to
+        creating full-stack apps.
+        <br></br>
+        Enjoy!
       </section>
     </div>
   );
