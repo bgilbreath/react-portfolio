@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.f6f163f0.css",
-    "main.js": "/react-portfolio/static/js/main.981399f9.js",
+    "main.css": "/react-portfolio/static/css/main.cee65a5a.css",
+    "main.js": "/react-portfolio/static/js/main.ef167210.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/wineanddine.png": "/react-portfolio/static/media/wineanddine.ef0c73e54687dd74c40d.png",
+    "static/media/midwestmakersmarket.jpg": "/react-portfolio/static/media/midwestmakersmarket.48bc574b5b41ac26b1aa.jpg",
     "static/media/header-img.jpg": "/react-portfolio/static/media/header-img.5f35a4051460db3b5a93.jpg",
     "static/media/readme-screenshot.jpg": "/react-portfolio/static/media/readme-screenshot.901b225ab1801b819179.jpg",
     "static/media/letskeeptrack.png": "/react-portfolio/static/media/letskeeptrack.a257338a1ce1e53d862e.png",
     "index.html": "/react-portfolio/index.html",
-    "main.f6f163f0.css.map": "/react-portfolio/static/css/main.f6f163f0.css.map",
-    "main.981399f9.js.map": "/react-portfolio/static/js/main.981399f9.js.map",
+    "main.cee65a5a.css.map": "/react-portfolio/static/css/main.cee65a5a.css.map",
+    "main.ef167210.js.map": "/react-portfolio/static/js/main.ef167210.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6f163f0.css",
-    "static/js/main.981399f9.js"
+    "static/css/main.cee65a5a.css",
+    "static/js/main.ef167210.js"
   ]
 }
